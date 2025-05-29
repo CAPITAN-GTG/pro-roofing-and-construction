@@ -57,7 +57,7 @@ const Footer = () => {
                 <Link href="/" className="flex items-center space-x-3 group">
                   <div className="p-2 transition-all duration-300 group-hover:scale-90">
                     <Image 
-                      src="/logo.webp" 
+                      src="/logo.png" 
                       alt="Pro Roof & Construction Logo" 
                       width={60} 
                       height={60} 
